@@ -5,6 +5,7 @@ This repository contains 20 detailed manual test cases for testing LinkedIn.com,
 ## 📄 Project Info
 - **Module:** Login, Sign-Up, Profile, Messaging, Search, Security
 - **Designed by:** Misuri Malindika
+- **Format:** Excel (`.xlsx`) 
 - **Date:** 05/04/2025
 - **Test Priority:** High, Medium, Low (as specified per test case)
 
